@@ -1,0 +1,12 @@
+P{
+    font-family: cursive;
+    font-size: 22px;
+}
+div  {
+    width: 200px;
+    height: 80px;
+    background: skyblue;
+   border: 1.5px solid yellow;
+    font-size: 16px;
+    display: inline;
+}
